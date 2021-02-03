@@ -1,6 +1,6 @@
 # Horiseon Website
 
-![website-splash](assets/splash.jpg)
+![website-splash](./assets/readme_assets/splash.jpg)
 
 ## Description
 
@@ -9,7 +9,7 @@ This is a code refactor to the source code for the Horiseon website, currently [
 
 ## Notable Changes from the Original Source Code
 
-* Added semantic tags to all 
+* Added semantic HTML tags in place of most non-semantic tags.
 * Added alt tags to all images.
 * Cleaned up CSS classes.
 
