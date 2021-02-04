@@ -12,25 +12,25 @@
 
 /* HEADER STYLING */
 
-    .header {
+    header {
         padding: 20px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
         background-color: #2a607c;
         color: #ffffff;
     }
 
-    .header h1 {
+    header h1 {
         display: inline-block;
         font-size: 48px;
     }
 
     /* The .header h1 .seo class is for the different color on seo in the header. */
 
-    .header h1 .seo {
+    header h1 .seo {
         color: #d9dcd6;
     }
 
-    .header nav {
+    header nav {
         padding-top: 15px;
         margin-right: 20px;
         float: right;
@@ -38,23 +38,23 @@
         font-size: 20px;
     }
 
-    .header nav ul {
+    header nav ul {
         list-style-type: none;
     }
 
-    .header nav ul li {
+    header nav ul li {
         display: inline-block;
         margin-left: 25px;
     }
 
-    .header a {
+    header a {
         color: #ffffff;
         text-decoration: none;
     }
 
 /* FIGURE STYLING */
 
-    .hero {
+    figure {
         height: 800px;
         width: 100%;
         margin-bottom: 25px;
@@ -65,15 +65,13 @@
 
 /* CONTENT STYLING */
     
-    .content {
+    main {
         width: 75%;
         display: inline-block;
         margin-left: 20px;
     }
 
-    /* Currently this p class affects all p tags, consider specifying if other p tags need to be restyled. */
-
-    p {
+    main p {
         font-size: 16px;
     }
 
@@ -87,9 +85,7 @@
         margin-left: 25px;
     }
 
-    .search-engine-optimization,
-    .online-reputation-management,
-    .social-media-marketing {
+    main section {
         margin-bottom: 20px;
         padding: 50px;
         height: 300px;
@@ -98,22 +94,18 @@
         color: #ffffff;
     }
 
-    .search-engine-optimization img,
-    .online-reputation-management img,
-    .social-media-marketing img {
+    main section img {
         max-height: 200px;
     }
 
-    .search-engine-optimization h2,
-    .online-reputation-management h2,
-    .social-media-marketing h2 {
+    main section h2 {
         margin-bottom: 20px;
         font-size: 36px;
     }
 
 /* ASIDE STYLING */
 
-    .benefits {
+    aside {
         margin-right: 20px;
         padding: 20px;
         clear: both;
@@ -124,23 +116,17 @@
         background-color: #2589bd;
     }
 
-    .benefit-lead,
-    .benefit-brand,
-    .benefit-cost {
+    aside section {
         margin-bottom: 32px;
         color: #ffffff;
     }
 
-    .benefit-lead h3, 
-    .benefit-brand h3, 
-    .benefit-cost h3 {
+    aside section h3 {
         margin-bottom: 10px;
         text-align: center;
     }
 
-    .benefit-lead img,
-    .benefit-brand img,
-    .benefit-cost img {
+    aside section img {
         display: block;
         margin: 10px auto;
         max-width: 150px;
