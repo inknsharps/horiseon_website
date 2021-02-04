@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a code refactor to the source code for the Horiseon website, currently <a href="https://inknsharps.github.io/horiseon_website/" target="_blank">hosted here</a>.
+This is a code refactor to the source code for the Horiseon website, currently <a href="https://inknsharps.github.io/horiseon_website_code_refactor/" target="_blank">hosted here</a>.
 <br><br>
 
 ## Notable Changes from the Original Source Code
