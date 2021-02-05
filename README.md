@@ -7,7 +7,7 @@
 This is a code refactor to the source code for the Horiseon website, currently <a href="https://inknsharps.github.io/horiseon_website_code_refactor/" target="_blank">hosted here</a>.
 <br><br>
 
-## Notable Changes from the Original Source Code
+## Summary of Notable Changes from Source
 
 * Added semantic HTML tags in place of most non-semantic tags.
 * Added alt tags to all images.
