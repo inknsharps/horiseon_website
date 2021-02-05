@@ -13,7 +13,7 @@ This is a code refactor to the source code for the Horiseon website, currently <
 * Added alt tags to all images.
 * Cleaned up CSS classes.
 
-Detailed descriptions for all changes can be found in the changelog.md file in /assets.
+Detailed descriptions for all changes can be found in the <a href="https://github.com/inknsharps/horiseon_website_code_refactor/blob/main/assets/changelog/changelog.md">changelog</a>.
 <br><br>
 ## Credits
 
