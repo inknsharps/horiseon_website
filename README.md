@@ -24,7 +24,7 @@ The build of the CSS code (as of Feb 6, 2021), is not designed with mobile first
 
 ## License
 
-This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for more details.
 <br><br>
 
 ## Credits
